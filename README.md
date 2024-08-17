@@ -37,6 +37,7 @@ self.addEventListener('fetch', event => {
 ```
 
 Пример HTML
+
 HTML (index.html):
 ```html
 <!DOCTYPE html>
